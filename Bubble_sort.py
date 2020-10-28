@@ -38,7 +38,7 @@ def Chrono_print(comp_cnt):
 # Variables 
 
 loop = 1
-fill_list(7500) # sets the amount of randomally generated numbers <= 2500 # we recommand values < 10000 #  be careful N^2 sorting times are exponenential !
+fill_list(7500) # sets the amount of randomally generated numbers here 7500 # we recommand values < 10000 #  be careful N^2 sorting times are exponenential !
 comp_count = 0
 
 
